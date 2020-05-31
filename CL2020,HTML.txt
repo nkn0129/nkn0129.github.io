@@ -1,8 +1,0 @@
-<HTML>
-<HEAD>
-<TITLE>H3ロケット</TITLE>
-</HEAD>
-<BODY>
-<H1>H3ロケットとは</H1>
-<P>
-</P>
